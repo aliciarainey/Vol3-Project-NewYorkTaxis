@@ -1,1 +1,18 @@
+# virtual environments
 venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# environment files
+.env
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+#data
+*.parquet
